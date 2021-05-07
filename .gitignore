@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Cinema Room Manager/task/out/test/classes/
+/Topics/Branching statements/Bus tour/out/
+/Topics/Branching statements/Bus tour/out/production/classes/
+/Topics/Branching statements/Even or odd/out/
+/Topics/Branching statements/Even or odd/out/production/classes/
+/Topics/Branching statements/The (un)-ordered sequence/out/
+/Topics/Branching statements/The (un)-ordered sequence/out/production/classes/
+/Topics/Branching statements/Theory/out/
+/Topics/Branching statements/Theory/out/production/classes/
