@@ -3,7 +3,8 @@ import java.util.*;
 public class Main {
 
     public static int[] getFirstAndLast(int[] a) {
-        return new int[]{a[0], a[a.length -1]};
+        int[] b = {a[0], a[a.length -1]};
+        return b;
     }
 
 
